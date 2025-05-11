@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bedroom 1",
+    "description": "two beds",
+    "id": "de01f8f2-e1a5-406d-b936-b6b9d555329f"
+  },
+  {
+    "name": "Bedroom 2",
+    "description": "one bed",
+    "id": "3a4528ad-3f30-4add-b47a-dabcf26163cc"
+  },
+  {
+    "name": "Kitchen",
+    "description": "34 square meters",
+    "id": "cf2b3e18-eb85-4481-a2c7-d1bea705d4c2"
+  }
+]
